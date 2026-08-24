@@ -65,7 +65,7 @@
 | [**D-Mart Sales Analysis**](https://github.com/jayesh190704/Dmart-Sales-Analysis)                                    | Sales analysis to identify trends, product performance and business insights               | Python, SQL, Power BI                          |
 | [**Telco Customer Churn Analysis**](https://github.com/jayesh190704/Telco-Customer-Churn-Analysis)                   | Customer churn analysis to understand customer behavior and retention patterns             | Python,Power BI, Excel, Data Analysis     
 | [**Google Play Store Performance Analysis**](https://github.com/jayesh190704/Google-Play-Store-performance-Analysis) | Analysis of application ratings, categories, installs and performance trends               | Python, SQL, Power BI , Data Analysis     |
-| [**Company Product Analysis**](https://github.com/jayesh190704/Company-Product-Analysis)                             | Product and company-level data analysis for extracting useful business insights            | Python, Data Analysis                          |
+| [**Company Product Analysis**](https://github.com/jayesh190704/Company-Product-Analysis)                             | Product and company-level data analysis for extracting useful business insights            | Python, Data Analysis ,Pandas , Data visualization      |
 | [**IPL Auction 2022 Analysis**](https://github.com/jayesh190704/IPL-Auction-2022-Analysis)                           | Analysis of IPL auction data, player selections and team spending patterns                 | Python, Web-Scrapping, request,Beautiful Soup                      |
 
 ---

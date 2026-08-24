@@ -66,7 +66,7 @@
 | [**Telco Customer Churn Analysis**](https://github.com/jayesh190704/Telco-Customer-Churn-Analysis)                   | Customer churn analysis to understand customer behavior and retention patterns             | Python, Pandas, Machine Learning               |
 | [**Google Play Store Performance Analysis**](https://github.com/jayesh190704/Google-Play-Store-performance-Analysis) | Analysis of application ratings, categories, installs and performance trends               | Python, Pandas, Data Visualization             |
 | [**Company Product Analysis**](https://github.com/jayesh190704/Company-Product-Analysis)                             | Product and company-level data analysis for extracting useful business insights            | Python, Data Analysis                          |
-| [**IPL Auction 2022 Analysis**](https://github.com/jayesh190704/IPL-Auction-2022-Analysis)                           | Analysis of IPL auction data, player selections and team spending patterns                 | Python, Data Analysis                          |
+| [**IPL Auction 2022 Analysis**](https://github.com/jayesh190704/IPL-Auction-2022-Analysis)                           | Analysis of IPL auction data, player selections and team spending patterns                 | Python, Web Scrapping,request,Beautiful Soup                      |
 
 ---
 
